@@ -1,3 +1,3 @@
-# Mã nguồn chương trình các bài trên CodePTIT.
+# Mã nguồn các bài toán.
 
->Những bài mà tôi làm được :( .
+>Là những bài toán điển hình của các Thuật toán và các loại Cấu trúc dữ liệu mà tôi đã liệt kê.
