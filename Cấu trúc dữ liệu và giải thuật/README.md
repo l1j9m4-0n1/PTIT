@@ -27,6 +27,6 @@
 
 - <b> D. Graph </b>
 
-- <b> E. List </b>
+- <b> E. Linked List </b>
 
 ----------------------
