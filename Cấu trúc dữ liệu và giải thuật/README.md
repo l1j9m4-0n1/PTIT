@@ -4,29 +4,29 @@
 
 ## 1) Thuật toán
 
-- <b> A. Duyệt - Sinh <b/>
+- <b> A. Duyệt - Sinh </b>
 
-### B. Đệ quy - Quay lui - Kỹ thuật Nhánh Cận
+- <b> B. Đệ quy - Quay lui - Kỹ thuật Nhánh Cận </b>
 
-### C. Tham lam
+- <b> C. Tham lam </b>
 
-### D. Chia để trị
+- <b> D. Chia để trị </b>
 
-### E. Quy hoạch động
+- <b> E. Quy hoạch động </b>
 
-### F. Sắp xếp - Tìm kiếm
+- <b> F. Sắp xếp - Tìm kiếm </b>
 
 
 ## 2) Cấu trúc dữ liệu
 
-### A. Stack
+- <b> A. Stack </b>
 
-### B. Queue
+- <b> B. Queue </b>
 
-### C. Binary Tree
+- <b> C. Binary Tree </b>
 
-### D. Graph
+- <b> D. Graph </b>
 
-### E. List
+- <b> E. List </b>
 
 ----------------------
