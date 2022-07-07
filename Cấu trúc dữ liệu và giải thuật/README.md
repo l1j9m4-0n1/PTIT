@@ -4,7 +4,7 @@
 
 ## 1) Thuật toán
 
-- <b> A. Duyệt - Sinh
+- <b> A. Duyệt - Sinh <b/>
 
 ### B. Đệ quy - Quay lui - Kỹ thuật Nhánh Cận
 
