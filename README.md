@@ -1,2 +1,2 @@
 # PTIT
-Posts and Telecommunications Institute of Technology
+>Posts and Telecommunications Institute of Technology
