@@ -6,7 +6,7 @@
 
 - <b> A. [Duyệt - Sinh](https://github.com/l1j9m4-0n1/PTIT/tree/main/C%E1%BA%A5u%20tr%C3%BAc%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20gi%E1%BA%A3i%20thu%E1%BA%ADt/Source%20Code/Duy%E1%BB%87t%20-%20Sinh) </b>
 
-- <b> B. Đệ quy - Quay lui - Kỹ thuật Nhánh Cận </b>
+- <b> B. [Đệ quy - Quay lui - Kỹ thuật Nhánh Cận](https://github.com/l1j9m4-0n1/PTIT/tree/main/C%E1%BA%A5u%20tr%C3%BAc%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20gi%E1%BA%A3i%20thu%E1%BA%ADt/Source%20Code/%C4%90%E1%BB%87%20quy%20-%20Quay%20lui%20-%20K%E1%BB%B9%20thu%E1%BA%ADt%20Nh%C3%A1nh%20C%E1%BA%ADn) </b>
 
 - <b> C. Tham lam </b>
 
