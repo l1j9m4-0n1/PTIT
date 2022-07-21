@@ -8,4 +8,3 @@
 
 - Client: Nhận kết quả. Hiển thị lên màn hình cho người dùng xem.
 
---------------------
